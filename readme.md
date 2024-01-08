@@ -23,8 +23,3 @@ You can also run the notebook using Visual Studio Code and PyCharm.
  
 
  
-### Option 2: Executing with Colab
-Colab, or "Collaboratory," provides the capability to write and execute Python code in your browser, offering free access to GPUs and easy sharing.
-
-You can execute the code using Google Colab by uploading the ipython notebook.
- 
