@@ -1,0 +1,11 @@
+google-cloud-bigquery==3.9.0
+pandas==1.4.4
+pandas_gbq==0.17.9
+numpy==1.22.4
+matplotlib==3.7.1
+scikit-learn==1.2.2
+lightgbm==3.3.5
+tensorflow==2.12.0
+keras==2.12.0
+projectpro
+tensorflow-addons==0.20.0
